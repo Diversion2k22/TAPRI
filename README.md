@@ -1,4 +1,5 @@
 <center> <h1> Tapri 🚀 </h1> </center>
+<h1> This project is completd !!!</h1>
 
 <p align="center">
 <img src="https://github.com/Diversion2k22/TAPRI/blob/master/tapri-logo.jpeg?raw=true" alt="logo" width="200"/>
@@ -44,6 +45,8 @@ Run:
 - Brief introduction about the project and the technologies used and small reference about how the project will work locally and  how to fetch data from api and make your own API for the project. Hosting will be done later on the project.
 - Locator completed.
 - Backend completed.
+- Frontend completed.
+- This project is completed.
 
 ## Our Contributors 🎇
 
